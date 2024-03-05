@@ -568,6 +568,9 @@ ul {
   }
 /* End animation */
 /* Start Team */
+.team img {
+    margin-left: 50px;
+}
 .team {
     padding-top: 150px;
     padding-bottom: 200px;
